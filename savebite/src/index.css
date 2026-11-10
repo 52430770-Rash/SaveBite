@@ -1,0 +1,13 @@
+body {
+  background-color: #f7f5ed;
+}
+
+.card {
+  border: none;
+  border-radius: 15px;
+  transition: transform 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
